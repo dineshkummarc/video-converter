@@ -1,0 +1,15 @@
+syntax: glob
+*.pyc
+*.avi
+*.mpg
+*.flv
+*.jpg
+*.jpeg
+*.tar.gz
+.env
+.settings
+.project
+.pydevproject
+dist
+
+
